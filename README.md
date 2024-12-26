@@ -29,5 +29,5 @@ I'm a passionate Front-End Developer, skilled in creating engaging and responsiv
 ## Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:mcznewbalance@gmail.com)
 - [Personal Website](https://your-website.com)
