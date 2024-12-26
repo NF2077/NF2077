@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jets 👋
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.visitor-badge)](https://github.com/your-username)
 
