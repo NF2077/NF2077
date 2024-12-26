@@ -31,3 +31,5 @@ I'm a passionate Front-End Developer, skilled in creating engaging and responsiv
 - [LinkedIn](https://linkedin.com/in/your-profile)
 - [Email](mailto:mcznewbalance@gmail.com)
 - [Personal Website](https://your-website.com)
+
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any project.
