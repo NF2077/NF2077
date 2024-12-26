@@ -1,6 +1,6 @@
 # Hi there, I'm Jetsvk 👋
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.visitor-badge)](https://github.com/your-username)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=NF2077.visitor-badge)](https://github.com/NF2077)
 
 ## About Me
 
