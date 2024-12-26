@@ -1,6 +1,6 @@
 # Hi there, I'm Jetsvk 👋
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=NF2077.visitor-badge)](https://github.com/NF2077)
+![Profile Views](https://komarev.com/ghpvc/?username=NF2077&color=blue)
 
 ## About Me
 
